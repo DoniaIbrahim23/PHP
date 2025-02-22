@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0;
+    font-weight: 900;
+}
+
+fieldset{
+width: 50%;
+margin: auto;
+height: 500px;
+}
+
+.form{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+label{
+    margin-top: 15px;
+}
+
+.submit{
+    background-color: green;
+    cursor: pointer;
+    color: white;
+    padding: 15px;
+    border: 0;
+    border-radius: 15px;
+}
+
+.reset{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    padding: 15px;
+    border: 0;
+    border-radius: 15px;
+}
